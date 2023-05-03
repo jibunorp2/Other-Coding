@@ -1,0 +1,2 @@
+As a user, I would like to have my password protected within the code, so that I can feel that my information is safe, and not worry about hackers getting my password.
+As a user, I would like to see that there is a password protection algorithm that ensures emails and passwords have to match, so that I can know not just anyone can get into my account.
