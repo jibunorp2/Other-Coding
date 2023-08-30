@@ -1,3 +1,5 @@
+--This goes inside the object that you want to have follow you
+--For example: if I put this script in a part the part will be the pet
 local pet = script.Parent
 
 function givePet (player)
